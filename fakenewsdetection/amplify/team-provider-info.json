@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-fakenewsdetection-dev-33325-authRole",
+      "UnauthRoleArn": "arn:aws:iam::516160979431:role/amplify-fakenewsdetection-dev-33325-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::516160979431:role/amplify-fakenewsdetection-dev-33325-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-fakenewsdetection-dev-33325-deployment",
+      "UnauthRoleName": "amplify-fakenewsdetection-dev-33325-unauthRole",
+      "StackName": "amplify-fakenewsdetection-dev-33325",
+      "StackId": "arn:aws:cloudformation:us-west-2:516160979431:stack/amplify-fakenewsdetection-dev-33325/e5e8a250-d485-11ec-b94a-0ab59509d6bd",
+      "AmplifyAppId": "d2hq1gsf80cg2n"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d2hq1gsf80cg2n",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}
