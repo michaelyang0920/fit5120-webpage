@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-factoverflow-dev-31201-authRole",
+      "UnauthRoleArn": "arn:aws:iam::516160979431:role/amplify-factoverflow-dev-31201-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::516160979431:role/amplify-factoverflow-dev-31201-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-factoverflow-dev-31201-deployment",
+      "UnauthRoleName": "amplify-factoverflow-dev-31201-unauthRole",
+      "StackName": "amplify-factoverflow-dev-31201",
+      "StackId": "arn:aws:cloudformation:us-west-2:516160979431:stack/amplify-factoverflow-dev-31201/487037d0-b514-11ec-97dd-021e3c564a2d",
+      "AmplifyAppId": "d15higa7vgf4k2"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d15higa7vgf4k2",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}
